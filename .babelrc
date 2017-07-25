@@ -1,0 +1,5 @@
+{
+  "presets": ["es2015","stage-1","react", "react-hmre"]
+}
+// presets[] = stage - 1, presets[] = react, presets[] = react - hmre, cacheDirectory = false
+
