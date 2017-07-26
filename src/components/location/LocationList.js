@@ -24,8 +24,7 @@ const state = {
     multiSelectable: false,
     enableSelectAll: false,
     deselectOnClickaway: true,
-    showCheckboxes: true,
-    height: '300px'
+    showCheckboxes: true
 };
     return (
         <div>
@@ -43,7 +42,7 @@ const state = {
                         <TableRow>
                             <TableHeaderColumn
                                 colSpan="3"
-                                tooltip="Super Header"
+                                tooltip="Locations"
                                 style={{
                                 textAlign: 'center'
                             }}>
